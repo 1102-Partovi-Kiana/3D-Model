@@ -13,7 +13,11 @@ Welcome to the **3D Dog Viewer**! This project showcases a 3D model of a dog, wh
 
 ## 🚀 Demo
 
-[Add link here if deployed or hosted]
+
+
+https://github.com/user-attachments/assets/30f0c161-6744-4e1b-895d-c2a182849617
+
+
 
 ---
 
@@ -27,6 +31,5 @@ Welcome to the **3D Dog Viewer**! This project showcases a 3D model of a dog, wh
 
 ---
 
-## 📂 Project Structure
 
 
